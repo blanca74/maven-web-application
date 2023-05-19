@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.31.255:8081/repository/appjava_releases/</url>
+	      <url>http://172.31.28.115:8081/repository/appjava_releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.31.255:8081/repository/appjava_snapshot/</url>
+	      <url>http://172.31.28.115:8081/repository/appjava_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
